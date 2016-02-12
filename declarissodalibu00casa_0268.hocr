@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./declarissodalibu00casa_0268.png"; bbox 0 0 1926 3200; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 574 977 1424 2040">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 574 977 1424 2040">
+     <span class='ocr_line' id='line_1_1' title="bbox 574 977 1424 2040; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 574 977 1424 2040; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 576 2183 1383 2224">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 576 2183 1383 2224">
+     <span class='ocr_line' id='line_1_2' title="bbox 576 2183 1383 2224; baseline -0.005 -1"><span class='ocrx_word' id='word_1_2' title='bbox 576 2187 660 2224; x_wconf 55' lang='lat'>5131</span> <span class='ocrx_word' id='word_1_3' title='bbox 672 2186 974 2223; x_wconf 42' lang='lat' dir='ltr'>xxss&#39;l‘lANx&#39;s</span> <span class='ocrx_word' id='word_1_4' title='bbox 1025 2185 1151 2223; x_wconf 52' lang='lat' dir='ltr'>§AM</span> <span class='ocrx_word' id='word_1_5' title='bbox 1168 2183 1383 2221; x_wconf 66' lang='lat' dir='ltr'>{X&#39;INIiTl</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
